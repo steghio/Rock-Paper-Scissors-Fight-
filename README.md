@@ -27,3 +27,9 @@ If your move is the winning one, you get a point, otherwise the AI gets a point.
 If you choose the same move, the round is a draw and must be played again.
 
 When either you or the AI reaches the victory limit, the game ends even if there are rounds left.
+
+## Compiling and executing
+
+Simply compile [rps.cpp](https://github.com/steghio/Rock-Paper-Scissors-Fight-/blob/master/rps.cpp) and execute it.
+
+You could also use an online service such as [onlinegdb](https://www.onlinegdb.com/online_c++_compiler)
