@@ -1,6 +1,6 @@
 # Rock! Paper! Scissors! Fight!
 
-This C++ exercise implements a full game of Rock, Paper, Scissors against an AI opponent.
+This [C++ exercise](https://groglogs.blogspot.com/2019/10/c-rock-paper-scissors-fight.html) implements a full game of Rock, Paper, Scissors against an AI opponent.
 
 ## Round input
 
