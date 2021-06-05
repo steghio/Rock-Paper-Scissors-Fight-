@@ -33,3 +33,5 @@ When either you or the AI reaches the victory limit, the game ends even if there
 Simply compile [rps.cpp](https://github.com/steghio/Rock-Paper-Scissors-Fight-/blob/master/rps.cpp) and execute it.
 
 You could also use an online service such as [onlinegdb](https://www.onlinegdb.com/online_c++_compiler)
+
+Project is licensed under a [CreativeCommons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
